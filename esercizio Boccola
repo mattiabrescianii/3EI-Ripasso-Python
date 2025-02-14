@@ -1,0 +1,6 @@
+creare un file CSV contenente informazioni sugli studenti, con colonne Nome, Cognome, Età, e Voto.
+Leggere il file CSV e caricare i dati in una lista.
+Calcolare l'età media degli studenti.
+Calcolare la media dei voti degli studenti.
+Filtrare gli studenti con un voto maggiore o uguale a 8, creando una nuova lista.
+Creare un nuovo file CSV con gli studenti che hanno un voto maggiore o uguale a 8.
