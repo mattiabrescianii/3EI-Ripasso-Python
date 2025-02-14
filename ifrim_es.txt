@@ -1,1 +1,1 @@
-crea un ordinamento il quale filtri i maggiorenni in un dizionario
+crea un ordinamento il quale filtri dei dizionari con i dati di certe persone e deve stampare solo le persone maggiorenni
