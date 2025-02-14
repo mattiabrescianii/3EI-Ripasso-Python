@@ -1,0 +1,6 @@
+Scrivi un FILE Python che esegua le seguenti operazioni su un file CSV:
+Leggi il file CSV: Deve essere in grado di leggere un file CSV che contiene informazioni sulle vendite, con le seguenti colonne: Prodotto, Categoria, Prezzo, Quantità, Data.
+Visualizza i dati: Visualizza i dati letti dal file CSV in una tabella ben formattata.
+Calcola e visualizza il totale delle vendite: Calcola e visualizza il totale delle vendite (Prezzo * Quantità) per ogni prodotto.
+Trova e visualizza il prodotto più venduto: Trova il prodotto con la quantità più alta venduta e visualizza il nome del prodotto e la quantità venduta.
+Filtra i dati per una determinata categoria: Filtra i dati per una categoria specificata dall'utente e salva i dati filtrati in un nuovo file CSV.
