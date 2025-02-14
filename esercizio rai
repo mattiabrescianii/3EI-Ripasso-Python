@@ -1,8 +1,8 @@
-Scrivi un programma Python che gestisca un file di contatti. Il programma dovrà essere in grado di:
+sscrivi un programma Python che gestisca un file di contatti il programma dovrà essere in grado di:
 
-Creare un file di contatti (contatti.txt) se non esiste, dove ogni riga del file rappresenta un contatto con il formato: Nome, Cognome, Telefono, Email.
-Aggiungere un nuovo contatto: Il programma deve permettere di inserire un nuovo contatto e aggiungerlo al file contatti.txt. Ogni contatto deve essere salvato in una nuova riga.
-Visualizzare tutti i contatti: Il programma deve leggere e stampare tutti i contatti presenti nel file.
-Cercare un contatto per nome: Il programma deve permettere di cercare un contatto tramite il nome. Se il contatto viene trovato, devono essere stampati i dettagli del contatto (Nome, Cognome, Telefono, Email).
-Rimuovere un contatto: Il programma deve permettere di rimuovere un contatto tramite il nome. Il contatto deve essere eliminato dal file.
+creare un file di contatti (contatti.txt) se non esiste, dove ogni riga del file rappresenta un contatto con il formato: nome, cognome, telefono, mail
+aggiungere un nuovo contatto: Il programma deve permettere di inserire un nuovo contatto e aggiungerlo al file contatti.txt. Ogni contatto deve essere salvato in una nuova riga
+vvisualizzare tutti i contatti: Il programma deve leggere e stampare tutti i contatti presenti nel fil
+cercare un contatto per nome: Il programma deve permettere di cercare un contatto tramite il nome. Se il contatto viene trovato, devono essere stampati i dettagli del contatto (Nome, Cognome, Telefono, Email).
+rimuovere un contatto: Il programma deve permettere di rimuovere un contatto tramite il nome. Il contatto deve essere eliminato dal file
 
