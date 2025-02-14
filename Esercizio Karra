@@ -1,0 +1,3 @@
+#Esercizio: Spesa al supermercato
+#Chiedere all'utente di inserire cosa vorrebbe comprare al supermercato e se vuole, può aggiungere più cose utilizzando un ciclo. Creare un file.csv dove si trovano gli alimenti del supermercato, controllare se c'è il cibo desiderato nel file.csv e se c'è aggiungere alla
+#lista "carrello". Il programma chiede se vorrebbe aggiungere qualcos'altro e se l'utente vuole, si aggiunge alla lista l'alimento altrimenti finisce il programma dove alla fine verrà visualizzato uno scontrino con il prezzo di ogni singolo alimento e il prezzo finale.
