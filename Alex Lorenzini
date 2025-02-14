@@ -3,5 +3,5 @@ Partenza Aereo
 Crea un file csv con una lista di passeggeri
 Leggi il file e inserisci i nomi dei passeggeri in una lista
 Fai scegliere all’utente tra: 1) Verificare un passeggero al check in e 2) Decollo dell’aereo
-Successivamente in output inserisci il nome e se presente sulla lista segnare come imbarcato se non presente sulla lista dire “Non Presente” 
-Se si decide di far decollare l’aereo segna tutti i passeggeri non presenti come “Non Imbarcato”
+se seleziona 1) Inserisci nome del passeggero e se presente sulla lista aggiungilo alla lista 'imbarcato'
+se seleziona 2) L'aereo decolla e segna tutti i passeggeri non presenti alla lista 'imbarcato' alla lista 'assenti'
